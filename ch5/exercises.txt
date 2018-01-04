@@ -1,0 +1,23 @@
+one
+    
+    convert centigrade to farenheit
+
+two
+
+    calculate volume of a sphere
+
+three
+
+    print rectangle perimeter given its length and height
+
+four
+
+    convert kilometers to miles
+
+five
+
+    take hours and minutes, output total minutes
+
+six
+
+    take minutes, output hours and minutes

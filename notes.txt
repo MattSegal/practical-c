@@ -1,0 +1,79 @@
+===== TODO =====
+
+Chapter 6 exercises
+then read chapter 7
+
+===== Exercises =====
+
+Chapter 4 
+    1 ✓
+    2 ✓
+    3 ✓
+    4 ✓
+    5 ✓
+
+Chapter 5
+    1 ✓
+    2 ✓
+    3 ✓
+    4 ✓
+    5 ✓
+
+Chapter 6
+    1 ✓
+    2 ✓
+    3 ✓
+    4 ✓
+    5 ✓
+    6 ✓
+
+Chapter 7
+    1 x
+    2 x
+    3 x
+    4 x
+    5 x
+    6 x
+
+clang foo.c -o foo 
+
+chapter 5
+
+strcpy(s1, s2)
+strcat(s1, s2)
+strlen(s)
+strcmp(s1, s2) // returns 0 if equal
+
+0 is falsey
+anything but 0 is truthy
+
+char foo[100]; // holds 99 character string - 1 space for '\0' NUL
+
+fgets(foo, sizeof(foo), stdin); // reads user input from stdin into foo
+// also reads \n - may need to trim it from string
+
+int matrix[2][4]; // 2 x 4 array
+
+int defaults to signed
+short int ~16 bits -2^15 to 2^15 - 1 (2s complement)
+unsigned short int 0 to 2^16
+int ~32 bits
+long int ~64 bits
+
+
+char 1 byte - -128 to 127 or 0 to 255 depending on compiler defaults
+(signed or unsigned)
+
+float ~4 bytes
+double ~8 bytes
+
+0123 = 123 octal = 83 decimal
+0x15 = 15 hex = 21 decimal
+
+x = x + 1
+x += 1
+x++
+++x
+also
++=  -=  *=  /=  %=
+

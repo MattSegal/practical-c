@@ -1,0 +1,23 @@
+one
+
+    print your name, SSN and DOB
+
+two
+
+    print an 'E' to the screen in *'s in a 7x5 grid
+
+three
+
+    compute the perimiter and area of 
+        a 3x5 rectangle and 
+        a 6.8 x 2.3 rectangle 
+
+four
+
+    print 'HELLO' in *s like in 2
+
+five
+
+    print float using %d
+    print and int using %f
+    print a char using %d
